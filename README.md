@@ -44,3 +44,23 @@ Framework python mais completo que já estudei. Caso tenha uma ideia legal para 
 ``` (devDjango)userLinux~$ django-admin startproject reverFilmes ```
 ###### Lista de arquivos criados após o comando de criação do projeto é conforme a seguir:
 ![alt text](https://github.com/pr0th1mu5/learningDjango3/blob/main/git01.png "Arquivos gerados")
+##### Próximo passo? Configurar o idioma e o timeZone no arquivo settings.py
+> Antes
+```
+# Internationalization
+# https://docs.djangoproject.com/en/3.2/topics/i18n/
+
+LANGUAGE_CODE = 'en-us'
+
+TIME_ZONE = 'UTC'
+```
+> Depois
+```
+# Internationalization
+# https://docs.djangoproject.com/en/3.2/topics/i18n/
+
+LANGUAGE_CODE = 'pt-br'
+
+TIME_ZONE = 'America/Sao_Paulo'
+```
+#### Após isso faz  o quê?
