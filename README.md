@@ -43,4 +43,4 @@ Framework python mais completo que já estudei. Caso tenha uma ideia legal para 
 ###### Para criar nosso projeto django precisamos inserir no terminal com o ambiente ativado o seguinte comando:
 ``` (devDjango)userLinux~$ django-admin startproject reverFilmes ```
 ###### Lista de arquivos criados após o comando de criação do projeto é conforme a seguir:
-![alt text] (https://github.com/pr0th1mu5/learningDjango3/blob/main/git01.png raw=true)
+![alt text](https://github.com/pr0th1mu5/learningDjango3/blob/main/git01.png "Arquivos gerados")
