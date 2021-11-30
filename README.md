@@ -44,4 +44,4 @@ Framework python mais completo que já estudei. Caso tenha uma ideia legal para 
 ``` (devDjango)userLinux~$ django-admin startproject reverFilmes ```
 ###### O que acontece?
 É criado um diretório chamado **reverFilmes** como projeto django com vários arquivos conforme imagem a seguir:
-![diretorio](https://drive.google.com/file/d/1Miqw2aNhgei8kbJCKbXyFN40g0iMcCuO/view?usp=sharing)
+![](https://drive.google.com/file/d/1Miqw2aNhgei8kbJCKbXyFN40g0iMcCuO/view?usp=sharing)
