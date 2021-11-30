@@ -42,6 +42,5 @@ Framework python mais completo que já estudei. Caso tenha uma ideia legal para 
 ### INICIANDO O DESENVOLVIMENTO E CRIANDO O PRIMEIRO PROJETO DJANGO
 ###### Para criar nosso projeto django precisamos inserir no terminal com o ambiente ativado o seguinte comando:
 ``` (devDjango)userLinux~$ django-admin startproject reverFilmes ```
-###### O que acontece?
-É criado um diretório chamado **reverFilmes** como projeto django com vários arquivos conforme imagem a seguir:
-![](https://drive.google.com/file/d/1Miqw2aNhgei8kbJCKbXyFN40g0iMcCuO/view?usp=sharing)
+###### Lista de arquivos criados após o comando de criação do projeto é conforme a seguir:
+![alt text] (https://github.com/pr0th1mu5/learningDjango3/blob/main/git01.png raw=true)
