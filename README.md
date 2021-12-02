@@ -64,3 +64,4 @@ LANGUAGE_CODE = 'pt-br'
 TIME_ZONE = 'America/Sao_Paulo'
 ```
 #### Após isso faz  o quê?
+continua nos próximos episódios... tenha paciência.... =)
